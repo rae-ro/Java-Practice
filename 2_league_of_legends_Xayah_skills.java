@@ -58,4 +58,3 @@ public class league_of_legends_Xayah_skills {
         System.out.println("Win Rate/Matches: " + coreBuildWinRate + "%/" + coreBuildPlayedMatches);
     }
     }
-    //Programmer: Chiara Anna Montecuollo
