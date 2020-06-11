@@ -3,9 +3,9 @@ public class league_of_legends_Xayah_skills {
         //champion information
         boolean usesMana = true;
         boolean isRanged = true;
-        double champWinRate = 48.43;
-        double champPickRate = 4.4;
-        double champBanRate = 0.3;
+        float champWinRate = 48.43F;
+        float champPickRate = 4.4F;
+        float champBanRate = 0.3F;
         int champPlayedMatches = 81807;
 
         //skill information
@@ -23,11 +23,11 @@ public class league_of_legends_Xayah_skills {
         short featherstormRange = 450;
 
         //runes information
-        double runesWinRate = 48.92;
+        float runesWinRate = 48.92F;
         short runesPlayedMatches = 23091;
 
         //build core items information
-        double coreBuildWinRate = 56.48;
+        float coreBuildWinRate = 56.48F;
         short coreBuildPlayedMatches = 18340;
 
         System.out.println("\n" + "Xayah: champion stats, skills and build");
