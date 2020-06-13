@@ -1,4 +1,4 @@
-public class league_of_legends_Xayah_skills {
+public class LeagueOfLegendsXayahStatsRunesBuild {
     public static void main(String [] args) {
         //champion information
         boolean usesMana = true;
